@@ -1,0 +1,16 @@
+%rss(version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/")
+  %channel
+    %title My Dev Log
+    %link http://devlog.thesempiternalholts.com
+    %description An adventure in NodeJS via SproutCore's buildtools
+    %pubDate&= (new Date()).toString()
+    %generator http://github.com/creationix/node-blog
+    %language en
+    :each article in articles
+      %item
+        %title&= article.title
+        %link&= "http://devlog.thesempiternalholts.com" + article.link
+        %pubDate= article.date
+        %guid(isPermaLink="true")&= "http://devlog.thesempiternalholts.com" + article.link
+        %description&= article.content
+        %author&= article.author.name
