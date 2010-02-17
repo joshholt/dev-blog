@@ -7,3 +7,5 @@ Date: Wed Feb 17 2010 10:16:51 GMT-0500 (EST)
 This article is about my first steps. Hopefully many articles will follow as I journey though SproutCore's buildtools.
 
 ## Starting the Port - Study the buildtools. ##
+
+	This is test text....
