@@ -1,3 +1,4 @@
-GithubName:   joshholt
-Email:    holt.josh@gmail.com
+GithubName: joshholt
+Email: holt.josh@gmail.com
 Homepage: http://blog.thesempiternalholts.com/
+
