@@ -17,3 +17,7 @@ This article is about my first steps. Hopefully many articles will follow as I j
 ## Begin Work ##
 	
 	// Slow down man, wait for the First 2 headings get filled out.
+
+## Off to see the wizzard ##
+
+	// If I only had a brain :^)~
