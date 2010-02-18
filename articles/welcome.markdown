@@ -1,6 +1,6 @@
 Title: Welcome to My Dev Log
 Author: Josh Holt
-Date: Wed Feb 17 2010 09:09:51 GMT-0500 (EST)
+Date: Wed Feb 17 2010 09:10:51 GMT-0500 (EST)
 
 **My Dev Log** is a blog featuring blurbs relating to my attempt at porting SC's build tools to NodeJS.
 
