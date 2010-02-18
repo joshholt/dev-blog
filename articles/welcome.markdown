@@ -13,3 +13,7 @@ This article is about my first steps. Hopefully many articles will follow as I j
 ## Break the buildtools into workable sections ##
 	
 	// TODO: Can't do this if I have studied enough :)
+	
+## Begin Work ##
+	
+	// Slow down man, wait for the First 2 headings get filled out.
