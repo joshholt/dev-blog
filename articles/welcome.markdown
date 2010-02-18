@@ -8,4 +8,8 @@ This article is about my first steps. Hopefully many articles will follow as I j
 
 ## Starting the Port - Study the buildtools. ##
 
-**So the test works**
+	// TODO: Fill this in after I study some more
+
+## Break the buildtools into workable sections ##
+	
+	// TODO: Can't do this if I have studied enough :)
