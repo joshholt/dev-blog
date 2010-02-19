@@ -6,13 +6,17 @@ Date: Wed Feb 17 2010 09:10:51 GMT-0500 (EST)
 
 This article is about my first steps. Hopefully many articles will follow as I journey though SproutCore's buildtools.
 
+## Get the Spec ##
+
+	// Read all of it...
+
 ## Starting the Port - Study the buildtools. ##
 
 	// TODO: Fill this in after I study some more
 
 ## Break the buildtools into workable sections ##
 	
-	// TODO: Can't do this if I have studied enough :)
+	// TODO: Can't do this if I haven't studied enough :)
 	
 ## Begin Work ##
 	
